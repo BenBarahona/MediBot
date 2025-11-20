@@ -60,7 +60,7 @@ export default function Home() {
               mb: 2,
             }}
           >
-            Praxy
+            MediBot
           </Typography>
           <Typography
             variant="h5"

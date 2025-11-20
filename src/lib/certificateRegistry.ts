@@ -17,7 +17,7 @@ export interface LinkedCertificate extends Certificate {
 // localStorage Persistence
 // ========================================
 
-const STORAGE_KEY = "praxy_linked_certificates";
+const STORAGE_KEY = "medibot_linked_certificates";
 
 // Load from localStorage on initialization
 function loadLinkedCertificates(): Map<string, LinkedCertificate> {

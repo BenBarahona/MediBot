@@ -14,7 +14,7 @@ def home():
 @app.route('/api')
 def api_info():
     return jsonify({
-        'message': 'Welcome to Praxy API!',
+        'message': 'Welcome to MediBot API!',
         'status': 'online',
         'endpoints': {
             '/': 'Frontend page',

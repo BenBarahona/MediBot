@@ -1,4 +1,4 @@
-# Invisible Garden Praxy - Frontend
+# MediBot
 
 A modern Web3 frontend application built with Next.js 14, Material UI, and Framer Motion.
 

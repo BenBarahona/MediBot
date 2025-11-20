@@ -1,4 +1,4 @@
-# 🌿 Invisible Garden Praxy
+# MediBot
 
 <div align="center">
 
@@ -17,7 +17,7 @@ _Combining blockchain verification, zero-knowledge proofs, and AI to create digi
 
 ## 📖 Overview
 
-**Invisible Garden Praxy** (PraxY) is an innovative platform that replicates the expertise and clinical judgment of senior medical professionals through secure digital assistants. Using AI training combined with encrypted verification and zero-knowledge identity (zkID) technology, PraxY ensures that only verified medical professionals can interact with the system while maintaining complete privacy and security.
+**MediBot** is an innovative platform that replicates the expertise and clinical judgment of senior medical professionals through secure digital assistants. Using AI training combined with encrypted verification and zero-knowledge identity (zkID) technology, Medibot ensures that only verified medical professionals can interact with the system while maintaining complete privacy and security.
 
 ### ✨ Key Features
 
@@ -130,7 +130,7 @@ The frontend will be available at: **http://localhost:3000**
 ## 📂 Project Structure
 
 ```
-invisible_garden_praxy/
+medibot/
 ├── 🎨 src/                        # Frontend application
 │   ├── app/                       # Next.js pages (App Router)
 │   │   ├── chat/                  # Chat interface
@@ -234,7 +234,7 @@ Create a `.env` file based on `env.example`:
 
 ```bash
 # Database
-DATABASE_URL=postgresql://user:password@localhost:5432/praxy
+DATABASE_URL=postgresql://user:password@localhost:5432/medibot
 
 # AI Services
 TOGETHER_API_KEY=your_api_key_here
@@ -247,7 +247,7 @@ NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID=your_project_id
 
 ## 📚 Additional Documentation
 
-- 📖 **[Whitepaper](prax_y_whitepaper_v_2.md)** - Detailed explanation of the PraxY vision and architecture
+- 📖 **[Whitepaper](prax_y_whitepaper_v_2.md)** - Detailed explanation of the Medibot vision and architecture
 - 💬 **[Chat Integration Guide](CHAT_INTEGRATION.md)** - How to integrate and use the chat system
 - 🎨 **[Frontend README](README_FRONTEND.md)** - Complete frontend setup and features
 - ⚙️ **[API README](README_API.md)** - Backend API documentation and endpoints

@@ -156,8 +156,6 @@ medibot/
 ├── 📄 README.md                   # This file
 ├── 📄 README_FRONTEND.md          # Frontend documentation
 ├── 📄 README_API.md               # API documentation
-├── 📄 CHAT_INTEGRATION.md         # Chat integration guide
-├── 📄 prax_y_whitepaper_v_2.md   # Project whitepaper
 └── 🐳 docker-compose.yml          # Docker services
 ```
 
@@ -247,7 +245,6 @@ NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID=your_project_id
 
 ## 📚 Additional Documentation
 
-- 📖 **[Whitepaper](prax_y_whitepaper_v_2.md)** - Detailed explanation of the Medibot vision and architecture
 - 💬 **[Chat Integration Guide](CHAT_INTEGRATION.md)** - How to integrate and use the chat system
 - 🎨 **[Frontend README](README_FRONTEND.md)** - Complete frontend setup and features
 - ⚙️ **[API README](README_API.md)** - Backend API documentation and endpoints
@@ -288,6 +285,6 @@ All interactions are encrypted and verified:
 
 <div align="center">
 
-[Frontend Docs](README_FRONTEND.md) • [API Docs](README_API.md) • [Whitepaper](prax_y_whitepaper_v_2.md)
+[Frontend Docs](README_FRONTEND.md) • [API Docs](README_API.md)
 
 </div>
